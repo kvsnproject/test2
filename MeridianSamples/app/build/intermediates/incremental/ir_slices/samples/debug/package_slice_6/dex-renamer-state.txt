@@ -1,0 +1,4 @@
+#Sat Sep 29 23:54:52 CDT 2018
+base.0=C\:\\Users\\brand\\Desktop\\meridian-android-sdk-4.7.0\\MeridianSamples\\app\\build\\intermediates\\transforms\\dexMerger\\samples\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

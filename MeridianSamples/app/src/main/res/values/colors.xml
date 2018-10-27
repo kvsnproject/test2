@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="drawer_background">#DADFE1</color>
+    <color name="drawer_text_color">#111</color>
+    <color name="pastelBlue">#b1d3ed</color>
+    <color name="pastelGrey">#c4cbd1</color>
+    <color name="pastelGreen">#c9e8da</color>
+    <color name="pastelPurple">#a2a0bf</color>
+    <color name="brightRed">#d61414</color>
+    <color name="brightBlue">#4369e6</color>
+</resources>
